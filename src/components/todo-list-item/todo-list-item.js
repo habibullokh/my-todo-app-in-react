@@ -44,7 +44,7 @@ export default class TodoListItem extends Component{
         <span
           className="todo-list-item-label"
           onClick = {this.clickLabel}
-          >
+          > 
           {label}
         </span>
   
